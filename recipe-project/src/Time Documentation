@@ -1,0 +1,47 @@
+Ethan:
+	3/29:
+		Main Window Creation: 2 hours
+		Main Window Options Formatting: 30 mins
+		> be main window
+		> Has action listeners for everything, but only exit works
+		> Can't have more than one open at a time
+		Started RecipeEditor: 4:30-5:10 (40 mins)
+	3/31:
+		Continued RecipeEditor: 3:30-5:36 (2 hours and 6 minutes)
+			(Made the Utilities Window within RecipeEditor)
+		Continued RecipeEditor: 5:50-6:16 (26 minutes)
+			(Added Documentation and Polishing to REUtensil)
+			> Still needs functionality	
+			
+	4/2:
+		Started working on Ingredient display
+		3:50-4:45 (55 minutes)
+		> Completed Ingredient Display Template
+		> Still needs functionality and tweaking.
+		*** SO FAR: 6.61/17 Hours worked*** <71 hours until first sprint is due (unless it's due midnight: 79 hrs)>
+		
+	4/3
+		Started working on Ingredient functionality
+		1:30-2:50 1 hr 20 mins
+		>Ingredient list is sorted alphabetically
+		>Checked for amount errors
+		>Text overfill is accounted for
+		>MainWindow had a bug that was called out by me
+		Still needs formatting
+	4/5		
+		10:15-4:00: 5 hours and 15 minutes
+		
+Ethan:
+	4/14
+		UnitConverter is made
+		2 Hours
+
+	4/16
+		UnitConverter is as good as it can be without ingredient density implementation
+		3 hours done
+		CalorieCalculator updated and given a better format
+		1 hour
+	4/17
+		Started working on it from 11:40-6:40
+		7 Hours fml
+
